@@ -1,0 +1,2 @@
+E:\C# project\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+E:\C# project\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
